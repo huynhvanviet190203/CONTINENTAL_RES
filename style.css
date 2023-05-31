@@ -217,7 +217,7 @@ section .main_btn:hover i{
 .menu h1 span{
     color: #fac031;
     margin-left: 15px;
-    font-family: mv boli;
+    font-family:monospace;
 }
 
 .menu h1 span::after{
